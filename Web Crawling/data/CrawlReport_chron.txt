@@ -1,0 +1,50 @@
+Name: Siri Chandana Pisupati
+USC ID: 9971282366
+News site crawled: chron.com
+
+
+Fetch Statistics : 
+==================
+# fetches attempted: 19989
+# fetched succeeded: 17567
+# fetched failed: 767
+# fetched aborted: 1652
+
+
+
+Outgoing URLs : 
+==================
+Total URLS extracted: 3472402
+# unique URLs extracted: 141101
+# unique URLs within News Site (chron.com): 70910
+# unique URLs outside News Site(chron.com): 70191
+
+
+
+Status Codes :
+==================
+404 Not Found: 102
+301 Moved Permanently: 767
+503 null: 1546
+200 OK: 17570
+410 null: 4
+
+
+
+File Size :
+==================
+< 1KB: 2
+1KB ~ <10KB: 97
+10KB ~ <100KB: 36
+100KB ~ <1MB: 17432
+>= 1MB: 0
+
+Content Types : 
+==================
+image/png: 10
+text/html: 17408
+text/xml: 148
+image/vnd.microsoft.icon: 1
+
+
+
